@@ -1,2 +1,0 @@
-
-print('بوت Goooooood114')
